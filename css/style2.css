@@ -1,0 +1,85 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contacts_container {
+  background: #1e2939;
+  width: 370px;
+  padding-left: 40px;
+  padding: 0px 0px 20px 40px;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+
+.tech_skills_container {
+  background: #1e2939;
+  width: 370px;
+  padding-left: 40px;
+  padding: 0px 0px 20px 40px;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+
+.soft_skills_container {
+  background: #1e2939;
+  width: 370px;
+  padding-left: 40px;
+  padding: 0px 0px 20px 40px;
+  box-sizing: border-box;
+  color: #ffffff;
+}
+
+.tech_skills_title {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.contacts_title {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.soft_skills_title {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.tech_skills_item {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.aside_main_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.contacts_container_link-item {
+  color: #4e5660;
+  padding-left: 15px;
+}
+
+ul {
+  margin: 0;
+  padding: 18px;
+}
+
+.main_container {
+  display: flex;
+  flex-direction: row;
+}
+
+.aboutme_main_container {
+  padding-left: 90px;
+  padding-top: 90px;
+}
+
+aside {
+  background-color: #1e2939;
+}
+
+.my_foto {
+  padding-top: 40px;
+}
